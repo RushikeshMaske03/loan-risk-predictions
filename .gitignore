@@ -3,7 +3,6 @@
 __pycache__/
 *.pyc
 data/raw/
-*.pkl
 *.joblib
 .DS_Store
 Thumbs.db
