@@ -1,0 +1,14 @@
+
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+data/raw/
+*.pkl
+*.joblib
+.DS_Store
+Thumbs.db
+venv/
+env/
+dataset/
+data/
+PRCP-1006-HomeLoanDef (1).zip
