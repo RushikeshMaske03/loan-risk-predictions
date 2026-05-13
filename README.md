@@ -154,7 +154,7 @@ Python,Pandas,NumPy,Scikit-learn,Logistic,Randomforest,XGBoost,LightGBM,Matplotl
 
 ## 🚀 How to Run
 ### 1. Clone Repository
-https://github.com/RushikeshMaske03/loan-risk-prediction.git
+https://github.com/RushikeshMaske03/loan-risk-predictions.git
 
 ### 2. Install Dependencies
 pip install -r requirements.txt
