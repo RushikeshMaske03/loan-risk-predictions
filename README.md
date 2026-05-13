@@ -112,7 +112,10 @@ without cv and hyperparameter tunnig
 |Logistic| Regression	|0.700372|	0.764067	|0.168317|	0.688016	|0.270467|
 |Random Forest	|0.862950	|0.757363|	0.255781	|0.365358|	0.300904
 
-<img width="350" height="200" alt="download" src="https://github.com/user-attachments/assets/30ba007f-11ad-428c-8de2-7d175467a826" />
+<img width="450" height="250" alt="download" src="https://github.com/user-attachments/assets/47bf4fc7-0d2c-4853-99ca-69bad29ec916" />
+
+<img width="450" height="250" alt="download" src="https://github.com/user-attachments/assets/4c46bfff-a974-4c39-88b5-a5e0f6f676d2" />
+
 with cv and hyperparameter tunnig
 
  | Model |  ROC_AUC|
@@ -132,7 +135,7 @@ with cv and hyperparameter tunnig
 |macro avg      | 0.61    |  0.66    |  0.63    | 61503|
 |weighted avg |      0.89     | 0.86  |    0.87 |    61503|
 
-<img width="350" height="250" alt="download" src="https://github.com/user-attachments/assets/d0a3ee14-6613-4a3b-900e-f64af05abe6f" />
+<img width="450" height="250" alt="download" src="https://github.com/user-attachments/assets/629b5cad-4e49-440b-9897-ac137c4519b1" />
 
 ## ✅ Final Model Selection
 Selected Model: XGBoost
